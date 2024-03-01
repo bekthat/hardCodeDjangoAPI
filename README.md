@@ -9,7 +9,7 @@
 ## Результат выполнение с API
 
 
-### APO request: http://localhost:8000/api/products/
+### API request: http://localhost:8000/api/products/
 
 
 <img width="1342" alt="Снимок экрана 2024-03-01 в 22 11 33" src="https://github.com/bekthat/hardCodeDjangoAPI/assets/33370150/facf229f-c44d-4426-bbfc-c42133a867a2">
